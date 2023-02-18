@@ -2,5 +2,5 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: James O'Meara
-description: Senior Systems Administrator at King's College in Wilkes-Barre, PA 
+description: Senior Systems Administrator at King's&nbsp;College in Wilkes-Barre, PA 
 logo: /assets/img/logo.jpg
