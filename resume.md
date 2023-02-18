@@ -5,7 +5,6 @@
 <div align=center>Wilkes-Barre, PA 18702 ● 570-392-9707 ● jamesomearajr+res@gmail.com<br>
 <a href="https://jamesomearajr.github.io/">https://jamesomearajr.github.io/</a></div>
 
----
 
 ## Profile
 
