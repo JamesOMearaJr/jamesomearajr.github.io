@@ -1,4 +1,3 @@
-
 <div align=center><h1>James O'Meara</h1></div>
 
 ---
@@ -79,7 +78,8 @@ deployment.
 
 ---
 
-#### King's College, Wilkes-Barre, PA Graduated 2010
+#### King's College, Wilkes-Barre, PA
+#### Graduated 2010
 -   Bachelor of Science in Computer Science and Mathematics
 
 ## Technological Aptitude
