@@ -1,11 +1,17 @@
 
 <div align=center><h1>James O'Meara</h1></div>
+
+---
+
 <div align=center>Wilkes-Barre, PA 18702 ● 570-392-9707 ● jamesomearajr+res@gmail.com<br>
 <a href="https://jamesomearajr.github.io/">https://jamesomearajr.github.io/</a></div>
 
-
+---
 
 ## Profile
+
+---
+
 Dedicated and determined system administrator who thrives while
 developing and evaluating solutions in problem-solving scenarios.
 Experienced in system integrations and management with expertise in
@@ -13,6 +19,9 @@ automating and improving business processes using scripting and software
 deployment.
 
 ## Professional Experience
+
+---
+
 #### *Senior Systems Administrator*, **King's College**, Wilkes-Barre, PA 
 #### **2017 — Present**
 -   Management and design of Active Directory infrastructure, especially
@@ -67,10 +76,16 @@ deployment.
 -   Worked with users to resolve day-to-day software and hardware issues
 
 ## Education
+
+---
+
 #### King's College, Wilkes-Barre, PA Graduated 2010
 -   Bachelor of Science in Computer Science and Mathematics
 
 ## Technological Aptitude
+
+---
+
 -   Advanced PowerShell scripting and automation
 -   Core Microsoft Networking\
     (ADDS, ADCS, DNS, DHCP, Group Policy)
